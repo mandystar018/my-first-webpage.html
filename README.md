@@ -34,4 +34,4 @@ _The language that we use for this website is HTML. I did something really cool 
 
 *No license under which this application.*
 
-Copyright (c) 2016 **_{Amanda Otero}_**
+Copyright (c) 2016 **_{Amanda Otero, Chole, Ophelia}_**
